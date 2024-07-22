@@ -12,10 +12,6 @@ This belief stemmed from my previous experiences working in tech consulting and 
 - Database: Google BigQuery, PostgreSQL
 - Visualization: Tableau
 
-# Find me around the web 🌎
-- Writing in public on
-- Sharing updates on 
-
 <!---
 mtirtoatmojo/mtirtoatmojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
