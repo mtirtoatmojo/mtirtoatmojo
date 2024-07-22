@@ -1,7 +1,7 @@
 ## About Me
 
 <div align="left">
-    <img src="C:\Users\mt3808\Downloads\unnamed.jpg" width="200" height="200">
+    <img src="unnamed.jpg" width="200" height="200">
 </div>
 
 - **Name:** Your Name
