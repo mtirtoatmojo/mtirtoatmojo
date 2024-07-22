@@ -1,9 +1,4 @@
  # 👋 Hi, I’m Michelle Tirtoatmojo! 
-
-<div>
-     <img src="https://github.com/mtirtoatmojo/bio-picture/raw/main/unnamed.jpg" alt="Profile Picture" align="left" width="300" height="300" style="border-radius: 50%; margin-right: 20px;>
-         </div>
- 
  
 I'm an aspiring leader, entrepreneur, and a heartfelt data storyteller! I believe that data has the transformative power to drive impactful decisions in executing various business strategy and operations. 
 This belief stemmed from my previous experiences working in tech consulting and venture capital. I'm now transitioning to work in strategy & business operations or product analytics! 
