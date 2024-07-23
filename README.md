@@ -7,6 +7,9 @@ This belief stemmed from my previous experiences working in tech consulting and 
 - 🖥 I graduated from UCLA with a degree in International Development & Development Economics and is currently pursuing an MS in Applied Analytics at Columbia University
 - ✨ I'm also an avid yogi where I’ve got my teacher training certification in 2022 from the Yoga Alliance
 
+# Please find my project here 
+- To accompany all my code, please visit my Notion site here!
+
 # 🛠️ Tools
 - Language: SQL, Python, R, HTML/CSS
 - Database: Google BigQuery, PostgreSQL
