@@ -11,9 +11,10 @@ This belief stemmed from my previous experiences working in tech consulting and 
 - To accompany all my code, please visit my Notion site here!
 
 # 🛠️ Tools
-- Language: SQL, Python, R, HTML/CSS
+- Language: SQL, Python, R
 - Database: Google BigQuery, PostgreSQL
 - Visualization: Tableau
+- Web Dev: HTML/CSS, Shiny R
 
 <!---
 mtirtoatmojo/mtirtoatmojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
