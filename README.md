@@ -1,7 +1,6 @@
  # 👋 Hi, I’m Michelle Tirtoatmojo! 
  
-I'm an aspiring leader, entrepreneur, and a heartfelt data storyteller! I believe that data has the transformative power to drive impactful decisions in executing various business strategy and operations. 
-This belief stemmed from my previous experiences working in tech consulting and venture capital. I'm now transitioning to work in strategy & business operations or product analytics! 
+I'm an aspiring leader, entrepreneur, and a heartfelt data storyteller!  
 
 - 🌱 I'm deeply interested in tinkering with machine learning, natural language processing (NLP), and learning about Bayesian statistics 
 - 🖥 I graduated from UCLA with a degree in International Development & Development Economics and is currently pursuing an MS in Applied Analytics at Columbia University
